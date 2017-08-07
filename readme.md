@@ -1,0 +1,3 @@
+This script uses a different method. It will require you to have and use Minor Replenishment Portables as a trigger. You only need one.
+
+As usual, type !lot before entering the dungeon and use the trigger after every kill. You may or may not crash when you teleport to Killian's teleportal. Just reload the game and you should be fine. I'm looking into a way to stop the crashes. It could be too much teleporting, I don't know.
